@@ -1,0 +1,7 @@
+# png, jpg, jpeg pictures
+*.png
+*.jpg
+*.jpeg
+
+# pdf files
+*.pdf
